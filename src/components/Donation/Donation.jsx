@@ -32,7 +32,6 @@ const Donation = () => {
   if (isLoading) {
     return <div>Loading...</div>;
   }
-  console.log(donations, donatedItems)
 
   return (
     <div className="w-10/12 mx-auto grid grid-cols-1 lg:grid-cols-2 gap-6 mb-10">
