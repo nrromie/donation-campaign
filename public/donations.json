@@ -1,136 +1,134 @@
-{
-    "donations": [
-        {
-            "id": 1,
-            "img": "donation1.jpg",
-            "title": "Education Fund",
-            "description": "Support underprivileged children's education and give them a chance at a brighter future. Your contribution helps provide essential learning materials and resources to schools in need. Join us in shaping the next generation's success.",
-            "category": "Education",
-            "bgColor": "#3498db",
-            "btnBg": "#2980b9",
-            "textColor": "#ffffff",
-            "price": 50
-        },
-        {
-            "id": 2,
-            "img": "donation2.jpg",
-            "title": "Food Drive",
-            "description": "Join our mission to combat hunger and food insecurity in our community. Your donation goes towards providing nutritious meals to those who struggle to put food on the table. Together, we can make a difference one meal at a time.",
-            "category": "Food",
-            "bgColor": "#e74c3c",
-            "btnBg": "#c0392b",
-            "textColor": "#ffffff",
-            "price": 30
-        },
-        {
-            "id": 3,
-            "img": "donation3.jpg",
-            "title": "Medical Assistance",
-            "description": "Help us provide critical medical treatment and care to individuals who lack access to healthcare services. Your support can save lives and improve the well-being of many. Join hands with us for a healthier tomorrow.",
-            "category": "Medical",
-            "bgColor": "#2ecc71",
-            "btnBg": "#27ae60",
-            "textColor": "#ffffff",
-            "price": 70
-        },
-        {
-            "id": 4,
-            "img": "donation4.jpg",
-            "title": "Environmental Conservation",
-            "description": "Contribute to preserving our planet by supporting initiatives that protect endangered species and their habitats. Together, we can make a positive impact on the environment for generations to come.",
-            "category": "Environment",
-            "bgColor": "#f1c40f",
-            "btnBg": "#f39c12",
-            "textColor": "#000000",
-            "price": 40
-        },
-        {
-            "id": 5,
-            "img": "donation5.jpg",
-            "title": "Scholarship Program",
-            "description": "Empower students with educational opportunities through our Scholarship Program. Your support helps deserving students access quality education, unlocking a world of possibilities and dreams.",
-            "category": "Education",
-            "bgColor": "#3498db",
-            "btnBg": "#2980b9",
-            "textColor": "#ffffff",
-            "price": 60
-        },
-        {
-            "id": 6,
-            "img": "donation6.jpg",
-            "title": "Hunger Relief",
-            "description": "Take part in our Hunger Relief mission, combating food insecurity. Your donation ensures that families in need have access to nourishing meals, bringing hope and stability to their lives.",
-            "category": "Food",
-            "bgColor": "#e74c3c",
-            "btnBg": "#c0392b",
-            "textColor": "#ffffff",
-            "price": 25
-        },
-        {
-            "id": 7,
-            "img": "donation7.jpg",
-            "title": "Healthcare for All",
-            "description": "Support our Healthcare for All initiative, ensuring everyone has access to essential medical services. Your contribution improves the overall well-being of communities in need.",
-            "category": "Medical",
-            "bgColor": "#2ecc71",
-            "btnBg": "#27ae60",
-            "textColor": "#ffffff",
-            "price": 80
-        },
-        {
-            "id": 8,
-            "img": "donation8.jpg",
-            "title": "Wildlife Conservation",
-            "description": "Protect endangered species and their habitats through our Wildlife Conservation efforts. Your contribution safeguards biodiversity and the natural world for future generations.",
-            "category": "Environment",
-            "bgColor": "#f1c40f",
-            "btnBg": "#f39c12",
-            "textColor": "#000000",
-            "price": 45
-        },
-        {
-            "id": 9,
-            "img": "donation9.jpg",
-            "title": "Educational Supplies",
-            "description": "Provide educational supplies to disadvantaged students, ensuring they have the tools needed to succeed in their studies. Your donation empowers young minds to reach their full potential.",
-            "category": "Education",
-            "bgColor": "#3498db",
-            "btnBg": "#2980b9",
-            "textColor": "#ffffff",
-            "price": 35
-        },
-        {
-            "id": 10,
-            "img": "donation10.jpg",
-            "title": "Community Kitchen",
-            "description": "Support our Community Kitchen, where we prepare and serve meals to those in need. Your donation helps alleviate hunger and brings a sense of community to those we serve.",
-            "category": "Food",
-            "bgColor": "#e74c3c",
-            "btnBg": "#c0392b",
-            "textColor": "#ffffff",
-            "price": 20
-        },
-        {
-            "id": 11,
-            "img": "donation11.jpg",
-            "title": "Medical Research",
-            "description": "Advance medical knowledge and treatments through our Medical Research initiatives. Your support fuels discoveries that improve healthcare outcomes for people worldwide.",
-            "category": "Medical",
-            "bgColor": "#2ecc71",
-            "btnBg": "#27ae60",
-            "textColor": "#ffffff",
-            "price": 90
-        },
-        {
-            "id": 12,
-            "img": "donation12.jpg",
-            "title": "Clean Energy Initiatives",
-            "description": "Promote clean and sustainable energy sources through our Clean Energy Initiatives. Your donation contributes to a greener, more environmentally friendly future.",
-            "category": "Environment",
-            "bgColor": "#f1c40f",
-            "btnBg": "#f39c12",
-            "textColor": "#000000",
-            "price": 55
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/3RP4p7q/Health.png",
+        "title": "Medical Assistance",
+        "description": "Help us provide critical medical treatment and care to individuals who lack access to healthcare services. Your support can save lives and improve the well-being of many. Join hands with us for a healthier tomorrow.",
+        "category": "Medical",
+        "bgColor": "#0052ff26",
+        "btnBg": "#0052ff33",
+        "textColor": "#0052FF",
+        "price": 70
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/0JtdNyj/Food.png",
+        "title": "Food Drive",
+        "description": "Join our mission to combat hunger and food insecurity in our community. Your donation goes towards providing nutritious meals to those who struggle to put food on the table. Together, we can make a difference one meal at a time.",
+        "category": "Food",
+        "bgColor": "#f8714726",
+        "btnBg": "#f8714733",
+        "textColor": "#F87147",
+        "price": 30
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/BjfhjBQ/environmental.jpg",
+        "title": "Environmental Conservation",
+        "description": "Contribute to preserving our planet by supporting initiatives that protect endangered species and their habitats. Together, we can make a positive impact on the environment for generations to come.",
+        "category": "Environment",
+        "bgColor": "#79c23f26",
+        "btnBg": "#79c23f33",
+        "textColor": "#79C23F",
+        "price": 40
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/k4qQ92y/Education.png",
+        "title": "Scholarship Program",
+        "description": "Empower students with educational opportunities through our Scholarship Program. Your support helps deserving students access quality education, unlocking a world of possibilities and dreams.",
+        "category": "Education",
+        "bgColor": "#ff444a26",
+        "btnBg": "#ff444a33",
+        "textColor": "#FF444A",
+        "price": 60
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/k4qQ92y/Education.png",
+        "title": "Education Fund",
+        "description": "Support underprivileged children's education and give them a chance at a brighter future. Your contribution helps provide essential learning materials and resources to schools in need. Join us in shaping the next generation's success.",
+        "category": "Education",
+        "bgColor": "#ff444a26",
+        "btnBg": "#ff444a33",
+        "textColor": "#FF444A",
+        "price": 50
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/3RP4p7q/Health.png",
+        "title": "Healthcare for All",
+        "description": "Support our Healthcare for All initiative, ensuring everyone has access to essential medical services. Your contribution improves the overall well-being of communities in need.",
+        "category": "Medical",
+        "bgColor": "#0052ff26",
+        "btnBg": "#0052ff33",
+        "textColor": "#0052FF",
+        "price": 80
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co/0JtdNyj/Food.png",
+        "title": "Hunger Relief",
+        "description": "Take part in our Hunger Relief mission, combating food insecurity. Your donation ensures that families in need have access to nourishing meals, bringing hope and stability to their lives.",
+        "category": "Food",
+        "bgColor": "#f8714726",
+        "btnBg": "#f8714733",
+        "textColor": "#F87147",
+        "price": 25
+    },
+    {
+        "id": 8,
+        "img": "https://i.ibb.co/BjfhjBQ/environmental.jpg",
+        "title": "Wildlife Conservation",
+        "description": "Protect endangered species and their habitats through our Wildlife Conservation efforts. Your contribution safeguards biodiversity and the natural world for future generations.",
+        "category": "Environment",
+        "bgColor": "#79c23f26",
+        "btnBg": "#79c23f33",
+        "textColor": "#79C23F",
+        "price": 45
+    },
+    {
+        "id": 9,
+        "img": "https://i.ibb.co/0JtdNyj/Food.png",
+        "title": "Community Kitchen",
+        "description": "Support our Community Kitchen, where we prepare and serve meals to those in need. Your donation helps alleviate hunger and brings a sense of community to those we serve.",
+        "category": "Food",
+        "bgColor": "#f8714726",
+        "btnBg": "#f8714733",
+        "textColor": "#F87147",
+        "price": 20
+    },
+    {
+        "id": 10,
+        "img": "https://i.ibb.co/BjfhjBQ/environmental.jpg",
+        "title": "Clean Energy Initiatives",
+        "description": "Promote clean and sustainable energy sources through our Clean Energy Initiatives. Your donation contributes to a greener, more environmentally friendly future.",
+        "category": "Environment",
+        "bgColor": "#79c23f26",
+        "btnBg": "#79c23f33",
+        "textColor": "#79C23F",
+        "price": 55
+    },
+    {
+        "id": 11,
+        "img": "https://i.ibb.co/k4qQ92y/Education.png",
+        "title": "Educational Supplies",
+        "description": "Provide educational supplies to disadvantaged students, ensuring they have the tools needed to succeed in their studies. Your donation empowers young minds to reach their full potential.",
+        "category": "Education",
+        "bgColor": "#ff444a26",
+        "btnBg": "#ff444a33",
+        "textColor": "#FF444A",
+        "price": 35
+    },
+    {
+        "id": 12,
+        "img": "https://i.ibb.co/3RP4p7q/Health.png",
+        "title": "Medical Research",
+        "description": "Advance medical knowledge and treatments through our Medical Research initiatives. Your support fuels discoveries that improve healthcare outcomes for people worldwide.",
+        "category": "Medical",
+        "bgColor": "#0052ff26",
+        "btnBg": "#0052ff33",
+        "textColor": "#0052FF",
+        "price": 90
+    }
+]
